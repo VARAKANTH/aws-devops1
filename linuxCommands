@@ -3,3 +3,5 @@ description it will use to display the content of a file mainly. It will also he
 usage:
 cat filename
 cat > filename
+pwd: present working directory
+
